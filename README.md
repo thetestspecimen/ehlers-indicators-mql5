@@ -15,11 +15,11 @@ The translation to MQL5 is free to use, however, the original EasyLanguage code 
 
 Therefore, as far as I am aware it would be required to own a copy of the original book before usage of the files in this repository:
 
-Cycle Analytics for Traders - Advanced Technical Trading Concepts by John F. Ehlers
+Cycle Analytics for Traders - Advanced Technical Trading Concepts by John F. Ehlers\
 Copyright © 2013 by John F. Ehlers. All rights reserved.
 
-[Wiley Publishing](https://www.wiley.com/en-us/Cycle+Analytics+for+Traders%3A+Advanced+Technical+Trading+Concepts%2C+%2B+Downloadable+Software-p-9781118728604)
-[Amazon UK](https://www.amazon.co.uk/Cycle-Analytics-Traders-Technical-Downloadable/dp/1118728513/)
+[Wiley Publishing](https://www.wiley.com/en-us/Cycle+Analytics+for+Traders%3A+Advanced+Technical+Trading+Concepts%2C+%2B+Downloadable+Software-p-9781118728604)\
+[Amazon UK](https://www.amazon.co.uk/Cycle-Analytics-Traders-Technical-Downloadable/dp/1118728513/)\
 [Amazon US](https://www.amazon.com/Cycle-Analytics-Traders-Downloadable-Software/dp/1118728513)
 
 Furthermore, it is recommended to purhase the book, as without it you will have no insight into the applicability of each of the indicators.
@@ -70,6 +70,7 @@ If you choose to download and/or use the code in this repository, you do so at y
 
 # License
 
-As stated above, the copyright to the original EasyLanguage code is held by John F. Ehlers. Copyright © 2013 by John F. Ehlers. All rights reserved.
+As stated above, the copyright to the original EasyLanguage code is held by John F. Ehlers.\
+Copyright © 2013 by John F. Ehlers. All rights reserved.
 
 The translation from EasyLanguage to MQL5 is licensed under the [MIT License](LICENSE.md)
