@@ -74,3 +74,5 @@ As stated above, the copyright to the original EasyLanguage code is held by John
 Copyright © 2013 by John F. Ehlers. All rights reserved.
 
 The translation from EasyLanguage to MQL5 is licensed under the [MIT License](LICENSE.md)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7G2C89)
